@@ -1,4 +1,4 @@
-package com.salvador.microservicios.users.microservicios_users;
+package com.salvador.microservicios.users;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
